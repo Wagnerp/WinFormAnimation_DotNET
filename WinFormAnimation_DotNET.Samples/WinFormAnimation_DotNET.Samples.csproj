@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WinFormAnimation_NET5\WinFormAnimation_NET5.csproj" />
+    <ProjectReference Include="..\WinFormAnimation_DotNET\WinFormAnimation_DotNET.csproj" />
   </ItemGroup>
 
   <ItemGroup>
